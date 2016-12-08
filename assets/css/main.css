@@ -3516,7 +3516,7 @@
 		}
 
 		#banner h1 {
-			font-size: 3em;
+			font-size: 5em;
 			line-height: 1.45;
 			margin: 0 0 0.75em 0;
 		}
@@ -3548,7 +3548,7 @@
 		@media screen and (max-width: 1280px) {
 
 			#banner h1 {
-				font-size: 2.75em;
+				font-size: 5em;
 			}
 
 				#banner h1 br {
@@ -3564,7 +3564,7 @@
 			}
 
 				#banner h1 {
-					font-size: 2em;
+					font-size: 3em;
 				}
 
 		}
