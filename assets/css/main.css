@@ -3309,7 +3309,7 @@
 		color: rgba(0, 0, 0, 0.75);
 		text-align: center;
 		cursor: default;
-		padding: 10em 4em 9em 4em;
+		padding: 6em 4em 13em 4em;
 		background-image: url(../../images/banner-background.jpg);
 		background-size: cover;
 		background-position: center;
@@ -3576,7 +3576,7 @@
 		@media screen and (max-width: 736px) {
 
 			#banner {
-				padding: 5em 1.5em 4em 1.5em;
+				padding: 3em 1.5em 6em 1.5em;
 			}
 
 				#banner h1 {
